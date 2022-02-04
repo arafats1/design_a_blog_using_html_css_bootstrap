@@ -1,4 +1,4 @@
-.container-fluid{
+.navbar{
     padding: 20px 20px;
     font-size: 20px;
 
@@ -17,7 +17,9 @@
   }
 
      
-  
+ .first{
+     margin-top: 6px;
+ } 
 
   .second{
       margin-top: 30px;
