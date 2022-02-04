@@ -1,0 +1,25 @@
+.container-fluid{
+    padding: 20px 20px;
+    font-size: 20px;
+
+}
+
+.carousel .carousel-item {
+    height: 500px;
+  }
+  
+  .carousel-item img {
+      position: absolute;
+      object-fit:cover;
+      top: 0;
+      left: 0;
+      min-height: 700px;
+  }
+
+     
+  
+
+  .second{
+      margin-top: 30px;
+  }
+  
