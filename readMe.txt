@@ -1,6 +1,6 @@
 #   OUR BLOG PAGE - GROUP 4
 
-![design preview of our blog page](https://github.com/arafats1/work/blob/main/img/blog-screenshot.png)
+![design preview of our blog page](https://github.com/arafats1/work/blob/main/img/blog-screenshot.png?raw=true)
 
 # GROUP MEMBERS
     - MAGEZI ARAFAT
