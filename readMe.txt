@@ -1,6 +1,6 @@
 #   OUR BLOG PAGE - GROUP 4
 
-![design preview of our blog page](./img/Screenshot 2022-02-06 130336.png)
+![design preview of our blog page](./img/blog-screenshot.png)
 
 # GROUP MEMBERS
     - MAGEZI ARAFAT
